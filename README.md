@@ -81,13 +81,13 @@ A simple calculator for both iOS and Android interfaces, built using HTML, CSS, 
 ## Screenshots
 
 ### iOS Calculator:
-![iOS Calculator Screenshot](link-to-ios-screenshot)
+![iOS Calculator Screenshot](assets/iOS.png)
 
 ### Android Calculator (Non-Expandable):
-![Android Calculator Non-Expandable Screenshot](link-to-non-expandable-screenshot)
+![Android Calculator Non-Expandable Screenshot](assets/android.png)
 
 ### Android Calculator (Expandable):
-![Android Calculator Expandable Screenshot](link-to-expandable-screenshot)
+![Android Calculator Expandable Screenshot](assets/android_exp.png)
 
 ---
 
