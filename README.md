@@ -1,6 +1,6 @@
 # Calculators
 
-A sleek, cross-platform calculator designed for both **iOS** and **Android** interfaces. Built using **HTML**, **CSS**, and **JavaScript**, this project demonstrates responsive design, modern UI principles, and interactive functionality.
+A simple calculator for both iOS and Android interfaces, built using HTML, CSS, and JavaScript.
 
 ---
 
@@ -12,7 +12,6 @@ A sleek, cross-platform calculator designed for both **iOS** and **Android** int
   - Basic operations: `+`, `-`, `×`, `÷`.
   - Percentage and sign inversion (`%`, `+/-`).
 - Minimalist design with rounded buttons and hover effects.
-- Auto-updating result field as operations are entered.
 - Responsive layout for various screen sizes.
 
 ### Android Calculator:
@@ -75,7 +74,7 @@ A sleek, cross-platform calculator designed for both **iOS** and **Android** int
 - **iOS and Android calculators** adapt to all screen sizes:
   - Buttons scale dynamically.
   - Layout adjusts for both portrait and landscape orientations.
-- Fully functional on mobile, tablet, and desktop devices.
+
 
 ---
 
@@ -100,23 +99,10 @@ A sleek, cross-platform calculator designed for both **iOS** and **Android** int
 
 ---
 
-## Contributing
-
-Contributions are welcome! Feel free to:
-- Open issues for bugs or feature requests.
-- Fork the repository and submit a pull request.
-
----
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## Acknowledgments
-
-Special thanks to:
-- Inspiration from native iOS and Android calculators.
-- [MDN Web Docs](https://developer.mozilla.org/) for providing detailed references on web development.
 
