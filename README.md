@@ -35,13 +35,13 @@ A simple calculator for both iOS and Android interfaces, built using HTML, CSS, 
    cd calculator
    ```
 
-2. Open the `main.html` file in any modern web browser.
+2. Open the `index.html` file in any modern web browser.
 
 ---
 
 ## File Structure
 
-- **`main.html`**: Contains the HTML structure for both calculators.
+- **`index.html`**: Contains the HTML structure for both calculators.
 - **`main.css`**: Styles for the iOS and Android calculators, including responsiveness and hover effects.
 - **`main.js`**: All the JavaScript functionality for both calculators, including event handling, calculations, and expandable mode toggle.
 
